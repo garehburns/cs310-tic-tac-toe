@@ -46,7 +46,7 @@ public class TicTacToeModel {
         @Override
         public String toString() {
             return message;
-        }
+        } 
         
     };
     

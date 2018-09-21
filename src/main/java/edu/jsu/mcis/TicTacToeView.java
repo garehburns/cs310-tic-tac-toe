@@ -59,7 +59,7 @@ public class TicTacToeView {
            System.out.println();
            System.out.println("Player 1 (X) Move: ");
            System.out.println("Enter the row and column numbers, separated by a space: ");
-        }
+        } 
         else
         {
                    

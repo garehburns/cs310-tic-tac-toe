@@ -21,7 +21,7 @@ public class TicTacToeController {
         
         keyboard = new Scanner(System.in);
 		
-    }
+    } 
 
     public void controlModel() {
         
